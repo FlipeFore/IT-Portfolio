@@ -8,7 +8,7 @@ Crafting AI-powered applications, and scalable SaaS platforms. Specializing in P
 
 ## 🚀 Quick Links
 
-- 🌐 **Portfolio Website**: [View Live](https://flipefore.github.io)
+- 🌐 **Portfolio Website**: [View Live](https://flipefore.github.io/IT-Portfolio/)
 - 💼 **LinkedIn**: [@ishfaqfirmandani](https://linkedin.com/in/ishfaqfirmandani)
 - 🐙 **GitHub**: [@FlipeFore](https://github.com/FlipeFore)
 - 📸 **Instagram**: [@flipefore](https://www.instagram.com/flipefore)
@@ -129,6 +129,6 @@ This portfolio and its content are © 2026 Ishfaq Firmandani. Built with ❤️.
 
 **⭐ If you find my work interesting, please consider giving this repository a star!**
 
-[Visit the Live Portfolio Website](https://flipefore.github.io)
+[Visit the Live Portfolio Website](https://flipefore.github.io/IT-Portfolio/)
 
 </div>
